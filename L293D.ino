@@ -4,7 +4,7 @@ Sujet : commande de deux MCC a l'aide d'un Hacheur de H-Bridge L293D
 
 Deceloppeur: Aidi Nour el Islem (OHA)
 
-Ce code source est sous licence Gpl v2
+Ce code source est sous licence Gpl v3
 
 Outils nécessaire : - une carte arduino
                     - deux moteurs a courant continu
