@@ -4,7 +4,7 @@ Sujet : acquisition de l’information distance a l’aide d’un HC-SR04
 
 Designer: Aidi Nour el Islem (OHA)
 
-ce code source est sous licence Gpl v2
+ce code source est sous licence Gpl v3
 
 outils nécessaire : - une carte arduino
                              - un module ultrasonic HC-SR04
