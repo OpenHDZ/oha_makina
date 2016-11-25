@@ -1,2 +1,4 @@
 # oha_makina
-introduction a la robotique open source hardware
+#Introduction à la robotique Open Source Hardware
+
+les codes et les schémas en relation avec notre playlist "Introduction a la robotique" sous l'objectif " réalisation d'un Robot Mobile détecteur d'Obstacles" lien vers la playliste : https://www.youtube.com/playlist?list=PLoQxGoo4OJ8Gw5BjXGuTY6Y2Wf2OXLJJM
